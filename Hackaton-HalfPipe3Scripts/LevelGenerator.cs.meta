@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 34f4b3e8e84357648bf8bfe7d6a8407e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roomSprite: {fileID: 4471229335383464, guid: 19703ec6fc2508845b45d314007ac8b3,
+      type: 2}
+  - doorsSprite: {fileID: 4031252225761054, guid: 0efe092b781151a46bc6c8b7011e9016,
+      type: 2}
+  - doorsSpriteOut: {fileID: 4031252225761054, guid: 2305e9aea4bea9e4abb837676c467743,
+      type: 2}
+  - wallsSprite: {fileID: 4078421176653524, guid: 3158028be96db463daf96e349848cc8b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
